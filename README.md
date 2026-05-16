@@ -113,23 +113,27 @@
 <img
   src="https://streak-stats.demolab.com/?user=Ynhaein&background=0d0d0d&border=7448ab&stroke=3d1f6e&ring=7448ab&fire=C9A0E8&currStreakNum=e0d0f0&sideNums=e0d0f0&currStreakLabel=9B6FCC&sideLabels=9B6FCC&dates=6b6b8a"
   alt="GitHub Streak"
-  height="180"
+  height="200"
 />
 
 <br/><br/>
 
-<!-- Stats Card + Top Languages side by side -->
+<!-- Stats Card -->
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Ynhaein&show_icons=true&count_private=true&bg_color=0d0d0d&border_color=7448ab&title_color=C9A0E8&text_color=e0d0f0&icon_color=9B6FCC&hide_border=false"
   alt="GitHub Stats"
-  height="180"
+  height="195"
 />
-&nbsp;
+
+<br/>
+
+<!-- Top Languages -->
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynhaein&layout=compact&langs_count=6&bg_color=0d0d0d&border_color=7448ab&title_color=C9A0E8&text_color=e0d0f0&hide_border=false"
   alt="Top Languages"
-  height="180"
+  height="195"
 />
 
 <br/><br/>
@@ -143,6 +147,18 @@
 />
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## &nbsp; ✦ &nbsp; I Don't Know Why I Added This
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 <br/>
 
@@ -174,14 +190,8 @@
 
 <br/>
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 30px; margin-bottom: 20px;">
   <p style="margin: 0; color: #9B6FCC; font-size: 11px; letter-spacing: 0.5px;">
     Theme Inspiration: Shin Hae-in from <i>"My Bias Gets on the Last Train"</i> · Original Creator: <b>JIXKSEE</b>
   </p>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg">
-</picture>
