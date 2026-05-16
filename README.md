@@ -124,9 +124,7 @@
 <!-- Stats Card -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Ynhaein&show_icons=true&count_private=true&bg_color=0d0d0d&border_color=7448ab&title_color=C9A0E8&text_color=e0d0f0&icon_color=9B6FCC&hide_border=false"
-  alt="GitHub Stats"
-  height="195"
+  src="https://github-readme-stats.vercel.app/api?username=Ynhaein&show_icons=true&theme=tokyonight"
 />
 
 <br/>
@@ -134,9 +132,7 @@
 <!-- Top Languages -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynhaein&layout=compact&langs_count=6&bg_color=0d0d0d&border_color=7448ab&title_color=C9A0E8&text_color=e0d0f0&hide_border=false"
-  alt="Top Languages"
-  height="195"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynhaein&layout=compact&theme=tokyonight"
 />
 
 <br/><br/>
