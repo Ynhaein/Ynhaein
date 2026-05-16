@@ -21,6 +21,9 @@
   <span style="color: #7448AB; font-weight: 700;">✦</span>
 </h2>
 
+<!-- Description --> 
+<p style=" margin-top: 0; font-size: 16px; color: #c9c9d4; letter-spacing: 0.5px; line-height: 1.8; " > 17 y/o Full-Stack Developer & UI/UX Designer <br> crafting modern web and mobile experiences from Samarinda, Indonesia. </p>
+
 <!-- Info pills -->
 <p style="margin-top: 12px; margin-bottom: 8px;">
   <img src="https://img.shields.io/badge/17%20y.o-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
