@@ -123,18 +123,6 @@
 
 <!-- Stats Card -->
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ynhaein&show_icons=true&theme=tokyonight"
-/>
-
-<br/>
-
-<!-- Top Languages -->
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynhaein&layout=compact&theme=tokyonight"
-/>
-
 <br/><br/>
 
 <!-- Activity Graph -->
