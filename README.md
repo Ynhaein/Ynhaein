@@ -170,7 +170,7 @@ Currently   : Building modern digital experiences
 
 
 
-<div align="center">
+<div>
 
 <p style="color:#9B6FCC; font-size:11px; letter-spacing:1px;">
   Theme Inspiration: Shin Hae-in from <i>"My Bias Gets on the Last Train"</i> · Original Creator: <b>JIXKSEE</b>
