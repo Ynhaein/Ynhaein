@@ -1,55 +1,50 @@
 <!-- Banner -->
 <img src="assets/nightcity-haein.gif" alt="Banner" width="100%" />
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 <!-- Name -->
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=55&duration=4000&pause=99999&color=7448AB&center=true&vCenter=true&repeat=false&width=900&lines=Yudhistira+Dwi+Putra+Ambat"
-  alt="Yudhistira Dwi Putra Ambat"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4000&pause=99999&color=7448AB&center=true&vCenter=true&repeat=false&width=900&lines=Yudhistira+Dwi+Putra+Ambat"
+  alt="YUDHISTIRA DWI PUTRA AMBAT"
 />
 
 <!-- Nickname -->
-<h2 style="margin-top: 10px; margin-bottom: 5px; letter-spacing: 2px; text-shadow: 0 2px 4px rgba(116, 72, 171, 0.3);">
-  <span style="color: #7448AB; font-weight: 700;">✦</span>
-  &nbsp;
-  <span style="background: linear-gradient(135deg, #7448AB, #C9A0E8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; font-size: 28px;">Yuu — Haein</span>
-  &nbsp;
-  <span style="color: #7448AB; font-weight: 700;">✦</span>
+<h2 style="margin-top: 8px; margin-bottom: 5px; letter-spacing: 2px;">
+  <span style="background: linear-gradient(135deg, #7448AB, #C9A0E8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 45px;">
+    Yuu - Haein
+  </span>
 </h2>
 
-<!-- Description --> 
-<p style=" margin-top: 0; font-size: 16px; color: #c9c9d4; letter-spacing: 0.5px; line-height: 1.8; " > 17 y/o Full-Stack Developer & UI/UX Designer <br> crafting modern web and mobile experiences from Samarinda, Indonesia. </p>
+<!-- Description -->
+<p style="margin-top: 0; font-size: 16px; color: #c9c9d4; letter-spacing: 0.5px; line-height: 1.8; max-width: 700px;">
+  17 y/o Full-Stack Developer & UI/UX Designer <br/>
+  crafting modern web and mobile experiences from Samarinda, Indonesia.
+</p>
 
 <!-- Info pills -->
-<p style="margin-top: 12px; margin-bottom: 8px;">
+<p>
   <img src="https://img.shields.io/badge/17%20y.o-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Samarinda%2C%20Indonesia-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Fullstack%20Dev%20%26%20UI%2FUX-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
 </p>
 
-<br/><br/>
+<br/>
 
-<!-- Arnhezky -->
+<!-- Big GitHub Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ynhaein?style=for-the-badge&label=FOLLOWERS&labelColor=0d0d0d&color=7448ab" height="32" />
+  <img src="https://img.shields.io/github/stars/Ynhaein?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=0d0d0d&color=7448ab" height="32" />
+  <img src="https://komarev.com/ghpvc/?username=Ynhaein&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d0d&color=7448ab" height="32" />
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=48&duration=3000&pause=99999&color=C9A0E8&center=true&vCenter=true&repeat=false&width=400&lines=Arnhezky"
-  alt="Arnhezky"
-/>
 
-<br/><br/>
-
-<!-- Stats badges -->
-<img src="https://komarev.com/ghpvc/?username=Ynhaein&color=7448ab&style=flat-square&label=Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ynhaein?style=flat-square&color=7448ab&labelColor=0d0d0d&label=Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Ynhaein?affiliations=OWNER&style=flat-square&color=7448ab&labelColor=0d0d0d&label=Stars" />
+<!-- Small text -->
+<p align="center" style="margin-top: 6px; color: #8a8aa3; font-size: 11px; letter-spacing: 2px;">
+  Arnhezky
+</p>
 
 </div>
 
@@ -57,29 +52,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## &nbsp; ✦ &nbsp; About Me
+# ✦ About Me
 
-&nbsp; &nbsp; 🖥️ &nbsp; Building full-stack web applications from frontend to backend <br/>
-&nbsp; &nbsp; 📱 &nbsp; Developing cross-platform mobile apps with Flutter <br/>
-&nbsp; &nbsp; 🎨 &nbsp; Designing clean, minimal, and intentional interfaces <br/>
-&nbsp; &nbsp; 🎵 &nbsp; Currently lost in the world of _"My Bias Gets on the Last Train"_
+```yaml
+Name        : Yudhistira Dwi Putra Ambat
+Age         : 17
+Focus       : Full-Stack Development & UI/UX Design
+Location    : Samarinda, Indonesia
+Currently   : Building modern digital experiences
+```
+
+- 🖥️ Building full-stack web applications from frontend to backend  
+- 📱 Developing cross-platform mobile apps with Flutter  
+- 🎨 Designing clean, minimal, and intentional interfaces  
+- 🎵 Currently lost in the world of *"My Bias Gets on the Last Train"*  
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## &nbsp; ✦ &nbsp; Tech Stack
+# ✦ Tech Stack
 
-**Programming Languages**
-
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-**Frameworks & Libraries**
-
+### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -87,15 +88,13 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-**Database & Backend**
-
+### Database & Backend
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Tools & Design**
-
+### Tools & Design
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -107,29 +106,36 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## &nbsp; ✦ &nbsp; GitHub Analytics
+# ✦ GitHub Analytics
 
 <div align="center">
 
-<!-- Contribution Streak -->
+<!-- GitHub Stats -->
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Ynhaein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7448AB&icon_color=C9A0E8&text_color=E0D0F0"
+    style="margin-right: 10px;"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ynhaein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7448AB&text_color=E0D0F0"
+  />
+</div>
 
+<br/><br/>
+
+<!-- Streak Stats -->
 <img
-  src="https://streak-stats.demolab.com/?user=Ynhaein&background=0d0d0d&border=7448ab&stroke=3d1f6e&ring=7448ab&fire=C9A0E8&currStreakNum=e0d0f0&sideNums=e0d0f0&currStreakLabel=9B6FCC&sideLabels=9B6FCC&dates=6b6b8a"
-  alt="GitHub Streak"
-  height="200"
+  src="https://streak-stats.demolab.com/?user=Ynhaein&background=0D0D0D&border=7448AB&stroke=3d1f6e&ring=7448AB&fire=C9A0E8&currStreakNum=E0D0F0&sideNums=E0D0F0&currStreakLabel=9B6FCC&sideLabels=9B6FCC&dates=6b6b8a"
+  height="190"
 />
 
 <br/><br/>
 
-<!-- Stats Card -->
-
-<br/><br/>
-
 <!-- Activity Graph -->
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ynhaein&bg_color=0d0d0d&color=C9A0E8&line=7448ab&point=9B6FCC&area=true&area_color=3d1f6e&border_color=7448ab&hide_border=false"
-  alt="Contribution Activity Graph"
   width="100%"
 />
 
@@ -139,46 +145,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## &nbsp; ✦ &nbsp; I Don't Know Why I Added This
+# ✦ I Don't Know Why I Added This
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg" width="100%">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph.svg"
+    width="100%"
+  >
 </picture>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## &nbsp; ✦ &nbsp; Connect With Me
+# ✦ Connect With Me
 
-<p>
-  <a href="https://github.com/Ynhaein" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=7448ab" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ynhaein88" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=7448ab" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=7448ab" />
-  </a>
-  &nbsp;
-  <a href="mailto:ynhaein@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=7448ab" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=C9A0E8)](https://github.com/Ynhaein)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=C9A0E8)](https://www.instagram.com/ynhaein88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C9A0E8)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=C9A0E8)](mailto:ynhaein@gmail.com)
+
+
+
+<div align="center">
+
+<p style="color:#9B6FCC; font-size:11px; letter-spacing:1px;">
+  Theme Inspiration: Shin Hae-in from <i>"My Bias Gets on the Last Train"</i> · Original Creator: <b>JIXKSEE</b>
 </p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<div style="margin-top: 30px; margin-bottom: 20px;">
-  <p style="margin: 0; color: #9B6FCC; font-size: 11px; letter-spacing: 0.5px;">
-    Theme Inspiration: Shin Hae-in from <i>"My Bias Gets on the Last Train"</i> · Original Creator: <b>JIXKSEE</b>
-  </p>
 </div>
