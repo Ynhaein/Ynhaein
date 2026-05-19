@@ -40,12 +40,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ynhaein&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d0d&color=7448ab" height="32" />
 </p>
 
-
-<!-- Small text -->
-<p align="center" style="margin-top: 6px; color: #8a8aa3; font-size: 11px; letter-spacing: 2px;">
-  Arnhezky
-</p>
-
 </div>
 
 <br/>
