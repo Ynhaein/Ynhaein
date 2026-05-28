@@ -46,7 +46,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# ✦ About Me
+# About Me
 
 ```yaml
 Name        : Yudhistira Dwi Putra Ambat
@@ -65,7 +65,7 @@ Currently   : Building modern digital experiences
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# ✦ Tech Stack
+# Tech Stack
 
 ### Programming Languages
 <p>
@@ -100,7 +100,7 @@ Currently   : Building modern digital experiences
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# ✦ GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Currently   : Building modern digital experiences
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# ✦ I Don't Know Why I Added This
+# I Don't Know Why I Added This
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
@@ -155,7 +155,7 @@ Currently   : Building modern digital experiences
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# ✦ Connect With Me
+# Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=C9A0E8)](https://github.com/Ynhaein)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=C9A0E8)](https://www.instagram.com/ynhaein88)
