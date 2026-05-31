@@ -44,8 +44,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 # About Me
 
 ```yaml
@@ -62,8 +60,6 @@ Currently   : Building modern digital experiences
 - 🎵 Currently lost in the world of *"My Bias Gets on the Last Train"*  
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 # Tech Stack
 
@@ -97,8 +93,6 @@ Currently   : Building modern digital experiences
 </p>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 # GitHub Analytics
 
@@ -137,9 +131,7 @@ Currently   : Building modern digital experiences
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-# I Don't Know Why I Added This
+# :D 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
@@ -152,8 +144,6 @@ Currently   : Building modern digital experiences
 </picture>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 # Connect With Me
 
