@@ -7,14 +7,15 @@
 
 <!-- Name -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=50&duration=4000&pause=99999&color=7448AB&center=true&vCenter=true&repeat=false&width=900&lines=Yudhistira+Dwi+Putra+Ambat"
-  alt="YUDHISTIRA DWI PUTRA AMBAT"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=1000&color=7448AB&center=true&vCenter=true&width=900&lines=Yuu+-+Haein;Yudhistira+Dwi+Putra+Ambat;FullStack+Dev+%26+UI/UX+Designer;Crafting+Digital+Experience"
+  alt="Typing Banner"
 />
+
 
 <!-- Nickname -->
 <h2 style="margin-top: 8px; margin-bottom: 5px; letter-spacing: 2px;">
   <span style="background: linear-gradient(135deg, #7448AB, #C9A0E8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 45px;">
-    Yuu - Haein
+    Yudhistira Dwi Putra Ambat / YUU - HAEIN  
   </span>
 </h2>
 
@@ -57,7 +58,7 @@ Currently   : Building modern digital experiences
 - 🖥️ Building full-stack web applications from frontend to backend  
 - 📱 Developing cross-platform mobile apps with Flutter  
 - 🎨 Designing clean, minimal, and intentional interfaces  
-- 🎵 Currently lost in the world of *"My Bias Gets on the Last Train"*  
+- 🎵 Currently lost in the world of My Bias Gets on the Last Train 
 
 <br/>
 
@@ -68,7 +69,9 @@ Currently   : Building modern digital experiences
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 
 ### Frameworks & Libraries
 <p>
@@ -82,6 +85,7 @@ Currently   : Building modern digital experiences
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ### Tools & Design
@@ -89,8 +93,9 @@ Currently   : Building modern digital experiences
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 
 <br/>
 
@@ -131,7 +136,7 @@ Currently   : Building modern digital experiences
 
 <br/>
 
-# :D 
+<!-- # :D 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynhaein/Ynhaein/pacman-output/pacman-contribution-graph-dark.svg">
@@ -143,7 +148,7 @@ Currently   : Building modern digital experiences
   >
 </picture>
 
-<br/>
+-->
 
 # Connect With Me
 
@@ -157,7 +162,7 @@ Currently   : Building modern digital experiences
 <div>
 
 <p style="color:#9B6FCC; font-size:11px; letter-spacing:1px;">
-  Theme Inspiration: Shin Hae-in from <i>"My Bias Gets on the Last Train"</i> · Original Creator: <b>JIXKSEE</b>
+  Theme Inspiration : Shin Hae-in from My Bias Gets on the Last Train · Original Creator : JIXKSEE
 </p>
 
 </div>
