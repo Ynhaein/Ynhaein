@@ -156,13 +156,3 @@ Currently   : Building modern digital experiences
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=C9A0E8)](https://www.instagram.com/ynhaein88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C9A0E8)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=C9A0E8)](mailto:ynhaein@gmail.com)
-
-
-
-<div>
-
-<p style="color:#9B6FCC; font-size:11px; letter-spacing:1px;">
-  Theme Inspiration : Shin Hae-in from My Bias Gets on the Last Train · Original Creator : JIXKSEE
-</p>
-
-</div>
