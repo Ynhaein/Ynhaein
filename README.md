@@ -45,9 +45,9 @@ Focus       : Full-Stack Development & UI/UX Design
 Location    : Samarinda, Indonesia
 Currently   : Building modern digital experiences
 ```
-<div style="border-left:4px solid #22c55e;padding:0.5em;">
-  Shin Haein's boyfriend :p
-</div>
+
+> Shin Haein's boyfriend :p
+
 
 ---
 
