@@ -7,7 +7,7 @@
 
 <!-- Name -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=1000&color=7448AB&center=true&vCenter=true&width=900&lines=Yuu+-+Haein;Yudhistira+Dwi+Putra+Ambat;FullStack+Dev+%26+UI/UX+Designer;Crafting+Digital+Experience"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=1000&color=7448AB&center=true&vCenter=true&width=900&lines=Yuu+-+Haein;Make+it+work,+Make+it+right,+Make+it+fast!;FullStack+Dev+%26+UI/UX+Designer;Crafting+Digital+Experience"
   alt="Typing Banner"
 />
 
