@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/haeincode-banner-image-soft.png" alt="Banner" width="100%" style="margin:0;padding:0;" />
+  <img src="assets/haeincode-banner-image-light.png" alt="Banner" width="100%" style="margin:0;padding:0;" />
 </p>
 
 <div align="center">
