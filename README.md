@@ -14,7 +14,7 @@
 <!-- Info pills -->
 <p>
   <img src="https://img.shields.io/badge/17%20y.o-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Samarinda%2C%20Indonesia-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/Indonesia-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
   <img src="https://img.shields.io/badge/Fullstack%20Dev%20%26%20UI%2FUX-7448ab?style=for-the-badge&labelColor=0d0d0d&color=1a1a1a" />
 </p>
 
@@ -43,7 +43,7 @@
 Name        : Yudhistira Dwi Putra Ambat
 Age         : 17
 Focus       : Full-Stack Development & UI/UX Design
-Location    : Samarinda, Indonesia
+Location    : Indonesia
 Currently   : Building modern digital experiences
 ```
 
